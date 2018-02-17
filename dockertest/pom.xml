@@ -11,6 +11,8 @@
     <modules>
         <module>controllerone</module>
         <module>controllertwo</module>
+        <module>integration.tests</module>
+        <module>utils</module>
     </modules>
 
     <parent>
