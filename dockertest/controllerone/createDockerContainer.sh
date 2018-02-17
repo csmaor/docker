@@ -1,0 +1,1 @@
+sudo docker run --rm -d --name controllerone -p 8081:8081 controlleroneimage:1
